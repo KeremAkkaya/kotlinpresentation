@@ -1,0 +1,2 @@
+# kotlinpresentation
+Devnot kotlin sunumu
